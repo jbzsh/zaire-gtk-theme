@@ -7,9 +7,9 @@ $bg_color: if($variant =='light', #f7f7f7, #1b2224);
 $fg_color: if($variant =='light', #273134, #ccd7d4);
 
 @if $color=='aliz' {
-  $base_color: if($variant =='light', #ffffff, #262626);
+  $base_color: if($variant =='light', #ffffff, #363636);
   $text_color: if($variant == 'light', #363636, #b5abab);
-  $bg_color: if($variant =='light', #f7f7f7, #222222);
+  $bg_color: if($variant =='light', #f7f7f7, #2d2d2d);
   $fg_color: if($variant =='light', #323232, #cbbfbf);
 }
 
@@ -22,7 +22,7 @@ $fg_color: if($variant =='light', #273134, #ccd7d4);
 
 $selected_fg_color: #ffffff;
 $selected_bg_color: #2eb398;
-@if $color=='aliz' { $selected_bg_color: #F0544C; }
+@if $color=='aliz' { $selected_bg_color: #ff7043; }
 @if $color=='azul' { $selected_bg_color: #3498db; }
 $alt_selected_bg_color: lighten($selected_bg_color, 6%);
 $selected_borders_color: darken($selected_bg_color, 20%);
@@ -56,8 +56,8 @@ $insensitive_bg_color: if($variant == 'light', mix($bg_color, $base_color, 40%),
 $header_bg: #1b2224;
 @if $color=='sea' and $variant=='light' { $header_bg: #1b2224; }
 @if $color=='sea' and $variant=='dark' { $header_bg: darken(#1b2224, 3%); }
-@if $color=='aliz' and $variant=='light' { $header_bg: #222222; }
-@if $color=='aliz' and $variant=='dark' { $header_bg: darken(#222222, 3%); }
+@if $color=='aliz' and $variant=='light' { $header_bg: #2d2d2d; }
+@if $color=='aliz' and $variant=='dark' { $header_bg: darken(#2d2d2d, 3%); }
 @if $color=='azul' and $variant=='light' { $header_bg: #1b1d24; }
 @if $color=='azul' and $variant=='dark' { $header_bg: darken(#1b1d24, 3%); }
 
@@ -103,9 +103,9 @@ $header_button_border: if($variant == 'dark', transparentize(darken($header_bg, 
 //WM Buttons
 
 // Close
-$wm_button_close_bg: if($variant == 'light', #f46067, #cc575d);
-$wm_button_close_hover_bg: if($variant == 'light', #f68086, #d7787d);
-$wm_button_close_active_bg: if($variant == 'light', #f13039, #be3841);
+$wm_button_close_bg: if($variant == 'light', #ff7043, #ff7043);
+$wm_button_close_hover_bg: if($variant == 'light', #ff7043, #ff7043);
+$wm_button_close_active_bg: if($variant == 'light', #ff7043, #ff7043);
 
 $wm_icon_close_bg: if($variant == 'light',#F8F8F9 , #2f3f3e);
 

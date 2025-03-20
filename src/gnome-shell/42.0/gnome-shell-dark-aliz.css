@@ -54,7 +54,7 @@ stage {
 
 .modal-dialog {
   color: #dddddd;
-  background-color: #222222;
+  background-color: #2d2d2d;
   box-shadow: none;
   border-radius: 5px;
   border: 1px solid rgba(0, 0, 0, 0.75);
@@ -69,7 +69,7 @@ stage {
 
 .quick-settings-system-item .icon-button, .icon-button, .button {
   color: #dddddd;
-  background-color: #222222;
+  background-color: #2d2d2d;
   border-color: #151515;
   box-shadow: none;
   text-shadow: none;
@@ -214,7 +214,7 @@ stage {
 
 .modal-dialog .modal-dialog-linked-button, .hotplug-notification-item, .notification-banner .notification-button {
   color: #dddddd;
-  background-color: #222222;
+  background-color: #2d2d2d;
   border-color: #151515;
   box-shadow: none;
   text-shadow: none;
@@ -305,7 +305,7 @@ stage {
 }
 
 .popup-menu-content, .candidate-popup-content {
-  background-color: #222222 !important;
+  background-color: #2d2d2d !important;
   border-radius: 3px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
   border: solid #151515;
@@ -347,7 +347,7 @@ StEntry {
   padding: 8px;
   border-width: 1px;
   color: #dddddd;
-  background-color: #222222;
+  background-color: #2d2d2d;
   border: 1px solid #151515 !important;
   box-shadow: none !important;
   selection-background-color: #ec271d !important;
@@ -356,7 +356,7 @@ StEntry {
 
 .prompt-dialog-password-grid .prompt-dialog-password-entry:focus,
 StEntry:focus {
-  background-color: #222222;
+  background-color: #2d2d2d;
   border: 1px solid #ec271d !important;
   box-shadow: none !important;
 }
@@ -1731,7 +1731,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .quick-toggle-menu {
-  background-color: #222222 !important;
+  background-color: #2d2d2d !important;
   color: #dddddd !important;
   border-radius: 5px !important;
   padding: 12px 0 !important;
@@ -1785,7 +1785,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .quick-settings-system-item .power-item:insensitive {
   color: #dddddd;
-  background-color: #222222;
+  background-color: #2d2d2d;
   border-color: #151515;
   box-shadow: none;
   text-shadow: none;
@@ -1809,7 +1809,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .notification-banner, .notification-banner:hover, .notification-banner:focus {
   color: #dddddd;
-  background-color: #222222;
+  background-color: #2d2d2d;
 }
 
 .notification-banner .notification-icon {
@@ -3353,7 +3353,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .lg-dialog .shell-link:active {
-  color: #f0544c;
+  color: #ff7043;
 }
 
 .lg-dialog .actor-link {
@@ -4299,7 +4299,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   font-weight: 500;
   border: 1px solid transparent !important;
   color: #dddddd;
-  background-color: #222222;
+  background-color: #2d2d2d;
   border-color: #151515;
   box-shadow: none;
   text-shadow: none;

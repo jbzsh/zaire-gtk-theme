@@ -83,7 +83,7 @@
        rx="1.5"
        ry="1.5" />
     <path
-       style="display:inline;opacity:1;fill:#F0544C;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686"
+       style="display:inline;opacity:1;fill:#ff7043;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686"
        d="M 2.109375,1021.3622 H 3 v 30 l -0.5892857,0.022 C 1.5803098,1051.416 1.0003333,1051.1508 1,1050.3198 l -0.0111607,-27.8259 c -2.8855e-4,-0.7194 0.31250001,-1.1317 1.12053571,-1.1317 z"
        id="rect4162"
        inkscape:connector-curvature="0"
