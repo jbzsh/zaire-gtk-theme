@@ -5,8 +5,8 @@ OPTIPNG="/usr/bin/optipng"
 
 INDEX="assets.txt"
 
-for variant in '' '-dark'; do
-  for color in '-sea' '-aliz' '-azul' '-pueril'; do
+for variant in '-dark'; do
+  for color in '-aliz'; do
 
     ASSETS_DIR="assets${variant}${color}"
     SRC_FILE="assets${variant}${color}.svg"
@@ -22,7 +22,7 @@ for variant in '' '-dark'; do
         echo Rendering $ASSETS_DIR/$i.png
         $INKSCAPE --export-id=$i \
                   --export-id-only \
-                  --export-png=$ASSETS_DIR/$i.png $SRC_FILE >/dev/null \
+                  --export-filename=$ASSETS_DIR/$i.png $SRC_FILE >/dev/null \
         && $OPTIPNG -o7 --quiet $ASSETS_DIR/$i.png
     fi
     done

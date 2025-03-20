@@ -7,17 +7,17 @@ fi
 
 SASSC_OPT="-M -t expanded"
 
-_COLOR_VARIANTS=('' '-light' '-dark')
+_COLOR_VARIANTS=('-dark')
 if [ ! -z "${COLOR_VARIANTS:-}" ]; then
   IFS=', ' read -r -a _COLOR_VARIANTS <<< "${COLOR_VARIANTS:-}"
 fi
 
-_ECOLOR_VARIANTS=('' '-dark')
+_ECOLOR_VARIANTS=('-dark')
 if [ ! -z "${ECOLOR_VARIANTS:-}" ]; then
   IFS=', ' read -r -a _ECOLOR_VARIANTS <<< "${ECOLOR_VARIANTS:-}"
 fi
 
-_THEME_VARIANTS=('-sea' '-aliz' '-azul' '-pueril')
+_THEME_VARIANTS=('-aliz')
 if [ ! -z "${THEME_VARIANTS:-}" ]; then
   IFS=', ' read -r -a _THEME_VARIANTS <<< "${THEME_VARIANTS:-}"
 fi
