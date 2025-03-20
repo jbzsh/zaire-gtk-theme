@@ -136,26 +136,6 @@ install() {
     cp -r "themerc${theme}"                                                           "${themedir}/xfwm4/themerc"
   fi
 
-  # Install xfwm4 hdpi Theme
-  mkdir -p                                                                            "${themedir}-hdpi/xfwm4"
-  cp -r "assets${color}${theme}-hdpi"/*.png                                           "${themedir}-hdpi/xfwm4"
-
-  if [[ "${color}" == '-light' ]] ; then
-    cp -r "themerc${color}"                                                           "${themedir}-hdpi/xfwm4/themerc"
-  else
-    cp -r "themerc${theme}"                                                           "${themedir}-hdpi/xfwm4/themerc"
-  fi
-
-  # Install xfwm4 xhdpi Theme
-  mkdir -p                                                                            "${themedir}-xhdpi/xfwm4"
-  cp -r "assets${color}${theme}-xhdpi"/*.png                                          "${themedir}-xhdpi/xfwm4"
-
-  if [[ "${color}" == '-light' ]] ; then
-    cp -r "themerc${color}"                                                           "${themedir}-xhdpi/xfwm4/themerc"
-  else
-    cp -r "themerc${theme}"                                                           "${themedir}-xhdpi/xfwm4/themerc"
-  fi
-
   # Install openbox Theme
   mkdir -p                                                                            "${themedir}/openbox-3"
   cd "${SRC_DIR}/openbox-3"
