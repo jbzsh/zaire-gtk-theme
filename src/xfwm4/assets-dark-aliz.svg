@@ -23,7 +23,7 @@
        id="header_bg"
        inkscape:swatch="solid">
       <stop
-         style="stop-color:#1a1a1a;stop-opacity:1;"
+         style="stop-color:#252525;stop-opacity:1;"
          offset="0"
          id="stop1179" />
     </linearGradient>
@@ -1074,7 +1074,7 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="right-active"
        width="2"
        height="16"
@@ -1083,7 +1083,7 @@
        inkscape:label="#rect4138-3"
        transform="scale(-1,1)" />
     <rect
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="right-inactive"
        width="2"
        height="16"
@@ -1092,7 +1092,7 @@
        inkscape:label="#rect4138-3"
        transform="scale(-1,1)" />
     <rect
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="left-active"
        width="2"
        height="16"
@@ -1101,7 +1101,7 @@
        inkscape:label="#rect4138-3"
        transform="scale(-1,1)" />
     <rect
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#252525;fill-opacity:1;stroke:none;stroke-width:1.41421354;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="left-inactive"
        width="2"
        height="16"

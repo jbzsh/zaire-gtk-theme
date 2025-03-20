@@ -42,8 +42,6 @@ top-right-active
 top-right-inactive
 left-active
 left-inactive
-right-active
-right-inactive
 bottom-active
 bottom-inactive
 bottom-left-active

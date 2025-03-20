@@ -439,14 +439,14 @@
  <g id="checkbox-unchecked-dark" transform="translate(228,56.64)">
   <g transform="translate(0,-30)">
    <rect x="17" y="30.362" width="16" height="16" color="#000000" fill="none"/>
-   <rect x="18.5" y="31.862" width="13" height="13" rx="2" ry="2" color="#000000" fill="#2b2b2b" stroke="#1a1a1a" stroke-linejoin="round"/>
+   <rect x="18.5" y="31.862" width="13" height="13" rx="2" ry="2" color="#000000" fill="#2b2b2b" stroke="#252525" stroke-linejoin="round"/>
   </g>
  </g>
  <g id="radio-unchecked-dark" transform="translate(208,56.64)">
   <g transform="matrix(.93617 0 0 .93566 -96.783 -244.76)">
    <rect x="206.99" y="261.98" width="17.091" height="17.1" color="#000000" fill="none"/>
    <g transform="matrix(.50892 0 0 .5174 181.79 197.56)">
-    <rect x="52.66" y="127.6" width="27.304" height="26.836" rx="13.224" ry="13.246" color="#000000" fill="#2b2b2b" stroke="#1a1a1a" stroke-linejoin="round" stroke-width="2.0822"/>
+    <rect x="52.66" y="127.6" width="27.304" height="26.836" rx="13.224" ry="13.246" color="#000000" fill="#2b2b2b" stroke="#252525" stroke-linejoin="round" stroke-width="2.0822"/>
    </g>
   </g>
  </g>
@@ -514,14 +514,14 @@
  <g id="checkbox-unchecked-insensitive-dark" transform="translate(228,75.64)" opacity=".6">
   <g transform="translate(0,-30)">
    <rect x="17" y="30.362" width="16" height="16" color="#000000" fill="none"/>
-   <rect x="18.5" y="31.862" width="13" height="13" rx="2" ry="2" color="#000000" fill="#2b2b2b" stroke="#1a1a1a" stroke-linejoin="round"/>
+   <rect x="18.5" y="31.862" width="13" height="13" rx="2" ry="2" color="#000000" fill="#2b2b2b" stroke="#252525" stroke-linejoin="round"/>
   </g>
  </g>
  <g id="radio-unchecked-insensitive-dark" transform="translate(208,75.64)" opacity=".6">
   <g transform="matrix(.93617 0 0 .93566 -96.783 -244.76)">
    <rect x="206.99" y="261.98" width="17.091" height="17.1" color="#000000" fill="none"/>
    <g transform="matrix(.50892 0 0 .5174 181.79 197.56)">
-    <rect x="52.66" y="127.6" width="27.304" height="26.836" rx="13.224" ry="13.246" color="#000000" fill="#2b2b2b" stroke="#1a1a1a" stroke-linejoin="round" stroke-width="2.0822"/>
+    <rect x="52.66" y="127.6" width="27.304" height="26.836" rx="13.224" ry="13.246" color="#000000" fill="#2b2b2b" stroke="#252525" stroke-linejoin="round" stroke-width="2.0822"/>
    </g>
   </g>
  </g>
